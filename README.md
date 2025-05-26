@@ -1,1 +1,2 @@
 # GerenciamentoVendas
+Ainda em polimento!
